@@ -1,0 +1,4 @@
+Query Test Result: [hello, bye, you, how are you, how are you ?]:
+	Memory Used: 2.692672 MBs
+	Time Used: 0.065 secs
+	No problem. Have a good day.
